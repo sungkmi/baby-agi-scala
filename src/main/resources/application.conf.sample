@@ -1,0 +1,7 @@
+open-api-key = "..."
+pinecone-api-key = "..."
+pinecone-environment = "asia-southeast1-gcp"
+
+your-table-name = "test-table"
+objective = "Solve world hunger."
+your-first-task = "Develop a task list."
